@@ -1,0 +1,149 @@
+[
+  {
+    "description": "Testing Login",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 5328817589
+  },
+  {
+    "description": "Testing Landing to Home Page",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 5182921172
+  },
+  {
+    "description": "We are testing Application title",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1618800
+  },
+  {
+    "description": "Creating a Standard Group",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2557869
+  },
+  {
+    "description": "Assigning contacts to a Standard Group",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1936165
+  },
+  {
+    "description": "Assigning contacts to a Standard Group",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1455380
+  },
+  {
+    "description": "Assigning contacts to a Standard Group",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2326951
+  },
+  {
+    "description": "Standard Group Created",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 12683951
+  }
+]
