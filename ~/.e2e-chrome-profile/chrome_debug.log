@@ -1,0 +1,1 @@
+[4368:3376:0420/113138.095:WARNING:extension_service.cc(453)] Loading extension specified by --load-component-extension as a regular extension. Extensions specified by --load-component-extension will not be loaded starting in M58. Use --load-extension or --disable-extensions-except.
